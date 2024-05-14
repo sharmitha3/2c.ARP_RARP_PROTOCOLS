@@ -9,7 +9,7 @@ To write a python program for simulating ARP protocols using TCP.
 3. Get the IP address to be converted into MAC address.
 4. Send this IP address to server.
 5. Server returns the MAC address to client.
-~~~
+~~~ 
 ## Server:
 ~~~
 1. Start the program
